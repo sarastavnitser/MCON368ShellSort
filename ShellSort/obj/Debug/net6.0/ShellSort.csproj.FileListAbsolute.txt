@@ -1,0 +1,15 @@
+/Users/sarastavnitser/RiderProjects/ShellSort/ShellSort/bin/Debug/net6.0/ShellSort
+/Users/sarastavnitser/RiderProjects/ShellSort/ShellSort/bin/Debug/net6.0/ShellSort.deps.json
+/Users/sarastavnitser/RiderProjects/ShellSort/ShellSort/bin/Debug/net6.0/ShellSort.runtimeconfig.json
+/Users/sarastavnitser/RiderProjects/ShellSort/ShellSort/bin/Debug/net6.0/ShellSort.dll
+/Users/sarastavnitser/RiderProjects/ShellSort/ShellSort/bin/Debug/net6.0/ref/ShellSort.dll
+/Users/sarastavnitser/RiderProjects/ShellSort/ShellSort/bin/Debug/net6.0/ShellSort.pdb
+/Users/sarastavnitser/RiderProjects/ShellSort/ShellSort/obj/Debug/net6.0/ShellSort.csproj.AssemblyReference.cache
+/Users/sarastavnitser/RiderProjects/ShellSort/ShellSort/obj/Debug/net6.0/ShellSort.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sarastavnitser/RiderProjects/ShellSort/ShellSort/obj/Debug/net6.0/ShellSort.AssemblyInfoInputs.cache
+/Users/sarastavnitser/RiderProjects/ShellSort/ShellSort/obj/Debug/net6.0/ShellSort.AssemblyInfo.cs
+/Users/sarastavnitser/RiderProjects/ShellSort/ShellSort/obj/Debug/net6.0/ShellSort.csproj.CoreCompileInputs.cache
+/Users/sarastavnitser/RiderProjects/ShellSort/ShellSort/obj/Debug/net6.0/ShellSort.dll
+/Users/sarastavnitser/RiderProjects/ShellSort/ShellSort/obj/Debug/net6.0/ref/ShellSort.dll
+/Users/sarastavnitser/RiderProjects/ShellSort/ShellSort/obj/Debug/net6.0/ShellSort.pdb
+/Users/sarastavnitser/RiderProjects/ShellSort/ShellSort/obj/Debug/net6.0/ShellSort.genruntimeconfig.cache

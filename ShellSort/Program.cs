@@ -1,33 +1,13 @@
-﻿using System;
-
-namespace ShellSort{
-    class ShellSort
+﻿namespace ShellSort
+{
+    class ShellSortProgram
     {
-        public Array Sort(int[] givenArray)
+        static void Main(String[] args)
         {
-            int arrLen = givenArray.Length;
-            int gap = arrLen / 2;
-            while (gap != 1)
-            {
-                int left = 0;
-                int right = gap;
-                for (int i = 0; i < gap; i++)
-                {
-                    if (givenArray[left] > givenArray[right])
-                    {
-                        int lHolder = givenArray[left];
-                        int rHolder = givenArray[right];
-                        givenArray[left] = rHolder;
-                        givenArray[right] = lHolder;
-                    }
-
-                    left++;
-                    right++;
-                }
-
-                gap /= 2;
-            }
-            
+            ShellSort shellSort = new ShellSort();
+            int[] unsorted = Array.ConvertAll(args[0].Split(','), int.Parse);
+            int[] sortedInts = shellSort.Sort(unsorted);
+            Array.ForEach(sortedInts, Console.WriteLine);
         }
     }
 }
